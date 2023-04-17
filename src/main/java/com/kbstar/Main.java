@@ -9,6 +9,7 @@ public class Main {
             int a = 10;
             int b = 20;
             int c = 30;
+            Service service = new Service();
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
